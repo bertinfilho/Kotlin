@@ -1,4 +1,4 @@
-package one.digitalinnovations.digeonebank
+/* package one.digitalinnovations.digeonebank
 import java.math.BigDecimal
 
 class conta {
@@ -16,4 +16,4 @@ class conta {
 
     }
 
-}
+}*/
