@@ -1,4 +1,4 @@
-package one.digitalinnovations.digeonebank
+package one.digitalinnovations.digionebank
 
 enum class ClienteTipo(var descricao:String) {  // --->  ENUM 'ClienteTipo' e construtor primario (descricao:String)
 

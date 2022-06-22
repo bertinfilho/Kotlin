@@ -1,5 +1,5 @@
-package one.digitalinnovations.digeonebank.testes
-import one.digitalinnovations.digeonebank.Banco
+package one.digitalinnovations.digionebank.testes
+import one.digitalinnovations.digionebank.Banco
 
 fun main(){
     val digiOneBank = Banco(nomeBanco = "DigiOne", numbBanco = 12)

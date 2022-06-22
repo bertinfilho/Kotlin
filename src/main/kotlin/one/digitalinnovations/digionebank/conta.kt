@@ -1,6 +1,6 @@
-/* package one.digitalinnovations.digeonebank
+package one.digitalinnovations.digionebank
 import java.math.BigDecimal
-
+/*
 class conta {
     val agencia: String,
     val numero:String,
@@ -15,5 +15,4 @@ class conta {
     fun saque(valor:BigDecimal){
 
     }
-
-}*/
+*/
