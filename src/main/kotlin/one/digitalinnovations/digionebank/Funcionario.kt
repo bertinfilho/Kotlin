@@ -8,4 +8,7 @@ abstract class Funcionario(
 
 ) : Pessoa(nome, cpf){
 
+    //Criacao de funcao auxilio para salario
+    abstract fun calculoAuxilio():
+
 }
